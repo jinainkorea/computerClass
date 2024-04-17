@@ -1,0 +1,8 @@
+/* body 여백 제거 */
+body {
+  margin: 0; 
+  padding: 0;
+}
+.top-section {
+  border: 1px solid red;
+}
